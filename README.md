@@ -1,5 +1,7 @@
 # tsconfig.json
 
+[compiler-options](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+
 ## Default
 
 `$ npx tsc --init`
